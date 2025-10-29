@@ -13,20 +13,21 @@ It can run entirely on a local machine without the need for internet access or a
 
 ## Project Structure
 
+```text
 health-dashboard/
 │
 ├── data/
-│ └── health_data.csv # Example dataset
+│   └── health_data.csv           
 │
 ├── dashboard/
-│ ├── index.html # Main user interface
-│ ├── style.css # Visual design and layout
-│ └── script.js # Basic chart and logic handling
+│   ├── index.html                
+│   ├── style.css                 
+│   └── script.js               
 │
 ├── scripts/
-│ └── serve_dashboard.py # Local HTTP server
+│   └── serve_dashboard.py        
 │
-└── README.md # Project documentation
+└── README.md                    
 
 
 
