@@ -69,5 +69,6 @@ The CSS ensures a balanced and professional appearance without relying on extern
 
 --- 
 
+
 ## Summary Plot
-<img width="778" height="940" alt="summary_plot" src="https://github.com/user-attachments/assets/59386fc6-64bb-4543-89d6-6a8880fb4b5a" />
+<img width="778" height="940" alt="summary_plot" src="https://github.com/user-attachments/assets/117a9bd1-3700-43c6-b3f4-29f8ad3fe9de" />
